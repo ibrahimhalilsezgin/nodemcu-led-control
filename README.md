@@ -4,4 +4,5 @@ npm install
 npm run dev
 
 ledControl.ino dosyasını nodemcu LOLin'e yükleyerek calistirabilirsiniz
-![Örnek Bağlantılar](https://github.com/user-attachments/assets/6ea7b332-37b4-41ed-a6e9-266dacb0eaaf)
+# Örnek Bağlantı
+![IMG_20240830_225712](https://github.com/user-attachments/assets/f2f9c261-4b16-4439-96bd-75ae057e5636)
